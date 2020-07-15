@@ -1,0 +1,23 @@
+{
+  "name": "cube-world",
+  "version": "1.0.0",
+  "description": "just starting to work on some of my projects for fun",
+  "main": "cube1.html",
+  "scripts": {
+    "start": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Escavalier/cube-world.git"
+  },
+  "author": "Hritwik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Escavalier/cube-world/issues"
+  },
+  "homepage": "https://github.com/Escavalier/cube-world#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
