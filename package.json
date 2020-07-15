@@ -19,5 +19,9 @@
   "homepage": "https://github.com/Escavalier/cube-world#readme",
   "devDependencies": {
     "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "three": "^0.118.3",
+    "three-orbitcontrols": "^2.110.3"
   }
 }
